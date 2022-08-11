@@ -4,7 +4,7 @@ Here is a list of all resources that I learnt concepts from, and later used:
 
 ## RESEARCH PAPERS: 
 
->[1] Courtier, N.E., Cave, J.M., Walker, A.B. et al. IonMonger: a free and fast planar perovskite solar cell simulator with coupled ion vacancy and charge carrier dynamics. J Comput Electron 18, 1435–1449 (2019). https://doi.org/10.1007/s10825-019-01396 
+> [1] Courtier, N.E., Cave, J.M., Walker, A.B. et al. IonMonger: a free and fast planar perovskite solar cell simulator with coupled ion vacancy and charge carrier dynamics. J Comput Electron 18, 1435–1449 (2019). https://doi.org/10.1007/s10825-019-01396 
 >[2] Calado, P., Gelmetti, I., Hilton, B. et al. Driftfusion: an open source code for simulating ordered semiconductor devices with mixed ionic-electronic conducting materials in one dimension. J Comput Electron (2022). https://doi.org/10.1007/s10825-021-01827-z 
 >[3] A. Gungor, J. Smajic, F. Moro and J. Leuthold, "Time-domain Coupled Full Maxwell- and Drift-Diffusion-Solver for Simulating Scanning Microwave Microscopy of Semiconductors," 2019 PhotonIcs & Electromagnetics Research Symposium - Spring (PIERS-Spring), 2019, pp. 4071-4077, doi: 10.1109/PIERS-Spring46901.2019.9017879. 
 >[4] Application of Finite Element Methods to the Simulation of Semiconductor Devices, J J H Miller et al 1999 Rep. Prog. Phys. 62 277 
