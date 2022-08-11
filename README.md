@@ -5,4 +5,4 @@ The code is given in the PSCFEM.mlx file. The MATLAB Live Script format helps me
 
 It is an incomplete code, with only the esential concepts of FEM implemeted in as simple a way as possible. The code will be completed in the future, (hopefully within the next 12 months) with better algorithms implemented.
 
-I have to leave it incomplete for the time being because it took me too much time to figure out open source codes on FEM and PSC simulation (my first time reading open source codes), and I must move on to prevent stagnation.
+I have to leave it incomplete for the time being because it took me too much time to figure out open source codes on FEM and PSC simulation (my first time reading open source codes), and understanding how to program the concepts that I was reading in the references, and I must move on to prevent stagnation.
