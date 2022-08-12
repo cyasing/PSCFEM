@@ -24,5 +24,5 @@ Here is a list of all resources that I learnt concepts from, and later used:
 
 ## OPEN-SOURCE CODES: 
 
-> 1. IonMonger, https://github.com/PerovskiteSCModelling/IonMonger (Took paramters' list from here)
+> 1. IonMonger, https://github.com/PerovskiteSCModelling/IonMonger (Took parameters' list from here)
 > 2. DriftFusion, https://github.com/barnesgroupICL/Driftfusion
